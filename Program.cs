@@ -7,7 +7,7 @@ namespace BasicCSharp
         static void Main(string[] args)
         {
             // Declare variables
-            int theVoid; 
+            int theVoid;
             double heatDeath;
             int theAnswer;
 
